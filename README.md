@@ -1,7 +1,7 @@
-IITH Alumni portal
+VIT-B Alumni portal
 ==================
 
-This project will host code for the IITH Alumni portal.
+This project will host code for the VIT-B Alumni portal.
 
 Installation
 ------------
